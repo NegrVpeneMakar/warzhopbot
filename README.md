@@ -1,0 +1,2 @@
+# warzhopbot
+esun ai
